@@ -1,1 +1,5 @@
-This file was created on Git Basg
+This file was created on Git Bash
+
+First Git bash push to Github....Nice Work
+
+Keep it up!!!
